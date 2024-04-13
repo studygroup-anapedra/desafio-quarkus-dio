@@ -28,7 +28,7 @@ Desenvolver um Sistema para eleição usando Quarkus Framework. Onde os candidat
 
 <p >🚀 3-Spring Data Jpa</p>
 
-<p >🚀 4-GraaVM</p>
+<p >🚀 4-GraalVM</p>
 
 <p >🚀 5-Nateve Image</p>
 
@@ -36,7 +36,7 @@ Desenvolver um Sistema para eleição usando Quarkus Framework. Onde os candidat
 
 <p >🚀 2-Docker</p>
 
-<p >🚀 3-Deploy/</p>
+<p >🚀 3-Deploy</p>
 
 
 
@@ -44,17 +44,18 @@ Desenvolver um Sistema para eleição usando Quarkus Framework. Onde os candidat
 
 
 <p >
-<a href="">🔗  </a>
+<a href="https://docs.quarkiverse.io/quarkus-java-embedded-framework/dev/index.html">🔗 QUARKUS-DOCS</a>
  </p>
 
 
 <p >
-<a href="">🔗  </a>
+<a href="https://thomsdacosta.medium.com/quarkus-java-desenvolvendo-microsservi%C3%A7os-com-api-oficial-da-marvel-f109cef090bc">🔗 Medium</a>
  </p>
 
 
 <p >
-<a href="">🔗 </a>
+<a href="https://www.jetbrains.com/help/idea/quarkus.html#debug">🔗
+IntelliJ IDEA</a>
  </p>
 
 
